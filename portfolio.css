@@ -334,62 +334,62 @@ h2 {
 }
 
 .box-one {
-    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url("images/weather.jpg") center center no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url("weather.jpg") center center no-repeat;
     background-size: 500px;
 }
 
 .box-one:hover {
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("images/weather.jpg") right center no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("weather.jpg") right center no-repeat;
     background-size: 600px;
 }
 
 .box-two {
-    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url("images/music.jpg") center center no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url("music.jpg") center center no-repeat;
     background-size: 500px;
 }
 
 .box-two:hover {
-    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.5)), url("images/music.jpg") left center no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.5)), url("music.jpg") left center no-repeat;
     background-size: 600px;
 }
 
 .box-three {
-    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url("images/calc.jpg") center center no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url("calc.jpg") center center no-repeat;
     background-size: 500px;
 }
 
 .box-three:hover {
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("images/calc.jpg") left center no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("calc.jpg") left center no-repeat;
     background-size: 600px;
 }
 
 .box-four {
-    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url("images/type.jpg") center center no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url("type.jpg") center center no-repeat;
     background-size: 500px;
 }
 
 .box-four:hover {
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("images/type.jpg") left center no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("type.jpg") left center no-repeat;
     background-size: 600px;
 }
 
 .box-five {
-    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url("images/memory.png") center center no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url("memory.png") center center no-repeat;
     background-size: 500px;
 }
 
 .box-five:hover {
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("images/memory.png") left center no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("memory.png") left center no-repeat;
     background-size: 600px;
 }
 
 .box-six {
-    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url("images/calendar.png") center center no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url("calendar.png") center center no-repeat;
     background-size: 500px;
 }
 
 .box-six:hover {
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("images/calendar.png") right center no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("calendar.png") right center no-repeat;
     background-size: 600px;
 }
 
