@@ -63,3 +63,7 @@ menu.addEventListener("click", function () {
 window.onscroll = () => {
     navlist.classList.remove("active");
 };
+
+//Copyright Year
+const copyright = `<p> © ${new Date().getFullYear()} Priscilla Bakradze </p>`;
+document.getElementById("copyright-year").innerHTML = copyright;
