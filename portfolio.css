@@ -490,7 +490,7 @@ form .button-send {
     color: #FEFCED;
 }
 
-footer {
+#copyright-year {
     color: #443266;
     text-align: center;
     margin-top: 70px;
@@ -616,7 +616,7 @@ footer {
     color: #FEFCED;
 }
 
-.dark footer {
+.dark #copyright-year {
     color: #C3C3E5;
 }
 
